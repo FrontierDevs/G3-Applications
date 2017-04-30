@@ -1,2 +1,3 @@
-# G3---app
-Genisys3's official Android Application
+# Genisys3 Application
+
+Our support application is coming soon
