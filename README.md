@@ -1,4 +1,4 @@
-# Genisys3 Application
+# FrontierDevs Apps
 
 Our support application is coming soon
 
